@@ -85,15 +85,13 @@ Compare the original modulating signal with the demodulated signal.
 # TABULATION
  <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f0948126-4c97-4882-ae32-d46429cb366e" />
 
-
-**Modulated Signal:**
-
-* Emax =
-* Emin =
+ # GRAPH
+ <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f80b9b72-fb1c-4d98-adbd-d04c24a14b98" />
 
 # CALCULATION
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c9cb7a85-1b04-4542-9342-2a5f0bb285d7" />
 
-1. **ma (Theory) = am/ac =**
+RESULT : Thus the amplitude modulation and demodulation is verified experimentally by using the scilab
 
 2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
 
