@@ -83,13 +83,8 @@ Compare the original modulating signal with the demodulated signal.
 * Verify the generated waveform using Tabulation and Model Waveform.
 
 # TABULATION
+ <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f0948126-4c97-4882-ae32-d46429cb366e" />
 
-| Sl. No. | Signal             | Amplitude (V) Theory | Amplitude (V) Practical | Frequency (Hz) Theory | Frequency (Hz) Practical |
-| ------- | ------------------ | -------------------- | ----------------------- | --------------------- | ------------------------ |
-| 1       | Message Signal     |                      |                         |                       |                          |
-| 2       | Carrier Signal     |                      |                         |                       |                          |
-| 3       | Modulated Signal   |                      |                         |                       |                          |
-| 4       | Demodulated Signal |                      |                         |                       |                          |
 
 **Modulated Signal:**
 
