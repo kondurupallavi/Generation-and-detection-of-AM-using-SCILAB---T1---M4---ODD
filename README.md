@@ -91,9 +91,7 @@ Compare the original modulating signal with the demodulated signal.
 # CALCULATION
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c9cb7a85-1b04-4542-9342-2a5f0bb285d7" />
 
-RESULT : Thus the amplitude modulation and demodulation is verified experimentally by using the scilab
-
-2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
+RESULT : Thus the amplitude modulation and demodulation is verified experimentally by using the scilab . 
 
 
 
