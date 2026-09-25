@@ -82,25 +82,20 @@ Compare the original modulating signal with the demodulated signal.
 * If any Error, correct it in code and execute again.
 * Verify the generated waveform using Tabulation and Model Waveform.
 
+# MODEL GRAPH
+<img width="503" height="350" alt="image" src="https://github.com/user-attachments/assets/a8dcc7d1-99a0-47fc-be74-979678d14252" />
+
 # TABULATION
+  <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f0948126-4c97-4882-ae32-d46429cb366e" />
 
-| Sl. No. | Signal             | Amplitude (V) Theory | Amplitude (V) Practical | Frequency (Hz) Theory | Frequency (Hz) Practical |
-| ------- | ------------------ | -------------------- | ----------------------- | --------------------- | ------------------------ |
-| 1       | Message Signal     |                      |                         |                       |                          |
-| 2       | Carrier Signal     |                      |                         |                       |                          |
-| 3       | Modulated Signal   |                      |                         |                       |                          |
-| 4       | Demodulated Signal |                      |                         |                       |                          |
-
-**Modulated Signal:**
-
-* Emax =
-* Emin =
 
 # CALCULATION
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c9cb7a85-1b04-4542-9342-2a5f0bb285d7" />
 
-1. **ma (Theory) = am/ac =**
+# OUTPUT
+<img width="1146" height="629" alt="image" src="https://github.com/user-attachments/assets/98922877-4193-446e-bf2e-86bc805c2a1c" />
 
-2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
-
+RESULT : 
+Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
 
 
